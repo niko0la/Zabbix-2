@@ -32,6 +32,10 @@
 ### Задание 1
 Создайте свой шаблон, в котором будут элементы данных, мониторящие загрузку CPU и RAM хоста.
 
+![Image alt](https://github.com/niko0la/Zabbix-2/blob/main/1-1.png)
+![Image alt](https://github.com/niko0la/Zabbix-2/blob/main/1-2.png)
+![Image alt](https://github.com/niko0la/Zabbix-2/blob/main/1-2.png)
+
 #### Процесс выполнения
 1. Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
 2. В веб-интерфейсе Zabbix Servera в разделе Templates создайте новый шаблон
@@ -70,7 +74,9 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
-
+![Image alt](https://github.com/niko0la/Zabbix-2/blob/main/2-1.png)
+![Image alt](https://github.com/niko0la/Zabbix-2/blob/main/2-2.png)
+![Image alt](https://github.com/niko0la/Zabbix-2/blob/main/2-3.png)
  ---
 
 ### Задание 4
@@ -83,7 +89,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
-
+![Image alt](https://github.com/niko0la/Zabbix-2/blob/main/3-1.png)
  ---
 
 ### Задание 5* со звёздочкой
